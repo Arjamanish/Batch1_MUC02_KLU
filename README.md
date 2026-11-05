@@ -1,6 +1,6 @@
 # Batch1 MUC02 KLU
 
-## Project Title
+## Project
 Credit Pre-Screening Engine — Loan Intake Optimisation
 
 ## Programme
@@ -10,28 +10,20 @@ Calibo AI Academy — Path 2 — KLU Batch
 MUC02 — BFSI / Retail Lending
 
 ## Project Description
-This project focuses on analysing historical loan application
-decisions and developing a Logistic Regression-based credit
-pre-screening approach to support loan intake optimisation.
+This project analyses historical loan application decisions and
+develops a Logistic Regression-based credit pre-screening approach
+to support loan intake optimisation.
 
-## Team Contributions
+## Team Responsibilities
 
 | Member | Responsibility |
 |---|---|
 | Member 1 | Business Analysis and Data Preparation |
 | Member 2 | Approval Drivers and Affordability |
 | Member 3 | Model Development and Threshold Analysis |
-| Member 4 | Fairness Analysis and Credit Policy Briefing |
-
-## Project Files
-
-- Dataset CSV
-- Group Jupyter Notebook
-- Group Insight Summary
-- Individual Member Reflections
+| Member 4 | Fairness and Credit Policy Briefing |
 
 ## Technologies
-
 - Python
 - Pandas
 - NumPy
@@ -40,8 +32,12 @@ pre-screening approach to support loan intake optimisation.
 - Scikit-learn
 - Jupyter Notebook
 
-## Repository Workflow
+## Repository Structure
+- Dataset CSV
+- Group Jupyter Notebook
+- Group Insight Summary
+- Individual Reflections
 
-The main branch contains the approved group submission.
-Each team member works on an individual branch and submits
-changes through Pull Requests.
+## Collaboration
+Each member works on an individual branch.
+Approved group contributions are merged into the main branch.
